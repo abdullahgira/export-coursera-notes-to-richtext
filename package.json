@@ -1,0 +1,18 @@
+{
+  "name": "export-coursera-notes-to-richtext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node"
+  },
+  "keywords": [
+    "export-coursera-notes",
+    "richtext"
+  ],
+  "author": "abdullahgira",
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^7.3.0"
+  }
+}
